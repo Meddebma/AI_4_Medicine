@@ -7,6 +7,7 @@ In this repository, you will find various notebooks that I have created during m
 I am constantly updating this repository as I work on new projects and experiments, so please check back often for the latest updates. If you have any questions or suggestions, please feel free to reach out to me.
 
 Thank you for visiting my repository, and I hope you find my work useful and informative.
+
 Contents
 
     Notebook 1: Image segmentation using U-Net architecture.
