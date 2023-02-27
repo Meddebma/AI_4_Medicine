@@ -10,10 +10,10 @@ Thank you for visiting my repository, and I hope you find my work useful and inf
 
 Contents
 
-    Notebook 1: Image segmentation using U-Net architecture.
-    Notebook 2: Transfer learning for classification of breast cancer images.
-    Notebook 3: Deep learning approach for detecting pulmonary nodules in CT scans.
-    Notebook 4: Automated detection of brain tumors using machine learning algorithms.
+    3D_Spleen_Segmentation: 3D Image segmentation using U-Net architecture.
+    3D_Spleen_Classification: 3D Image classification using DenseNet architecture.
+    2D_ICH_Detection: Detection of intracranial hemmorhage (ICH) and Interpretability using Grad-CAM
+    3D_HIE_Classification: Detection of hypoxic-ischemic encephalopathy (HIE) after cardiac arrest in CT images.
 
 Requirements
 
