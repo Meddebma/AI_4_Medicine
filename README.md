@@ -13,7 +13,7 @@ Contents
     3D_Spleen_Segmentation: 3D Image segmentation using U-Net architecture.
     3D_Spleen_Classification: 3D Image classification using DenseNet architecture.
     2D_ICH_Detection: Detection of intracranial hemmorhage (ICH) and Interpretability using Grad-CAM
-    3D_HIE_Classification: Detection of hypoxic-ischemic encephalopathy (HIE) after cardiac arrest in CT images.
+    2D_Hypoxia_Detection: Detection of hypoxic-ischemic encephalopathy (HIE) after cardiac arrest in CT images.
 
 Requirements
 
@@ -21,6 +21,7 @@ To run the notebooks in this repository, you will need the following software an
 
     Python 3.6 or later
     Jupyter Notebook
+    Monai
     Pytorch
     Keras
     NumPy
